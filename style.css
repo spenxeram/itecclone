@@ -1,0 +1,22 @@
+.container-fluid {
+    padding: 0px !important;
+}
+
+.container-fluid.topbar {
+    background: black;
+    color: white;
+}
+
+.container-fluid.orangebg {
+    height: 245px;
+    background: url(https://www.itec.hcmus.edu.vn/vn/templates/201205_itec/images/itec/header_bg.png);
+}
+
+nav.navbar {
+    background: none !important;
+    color: white;
+}
+
+nav.navbar a {
+    color: white !important;
+}
