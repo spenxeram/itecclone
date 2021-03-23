@@ -45,3 +45,8 @@ img {
     object-fit: contain;
     height: 100%;
 }
+
+footer.container-fluid {
+    background: lightgray;
+    padding: 10px !important;
+}
