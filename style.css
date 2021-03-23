@@ -40,3 +40,8 @@ img {
     color: white;
     border-top: 3px solid orange;
 }
+
+.col-md-5 img {
+    object-fit: contain;
+    height: 100%;
+}
