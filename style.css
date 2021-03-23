@@ -20,3 +20,23 @@ nav.navbar {
 nav.navbar a {
     color: white !important;
 }
+
+.container.banner {
+    margin-top: -142px;
+}
+
+.container.banner img {
+    width: 100%;
+}
+
+img {
+    max-width: 100%;
+}
+
+
+.sidebar-img p {
+    background: gray;
+    padding: 5px 0 10px 10px;
+    color: white;
+    border-top: 3px solid orange;
+}
